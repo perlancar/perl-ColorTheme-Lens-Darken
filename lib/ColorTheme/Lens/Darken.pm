@@ -69,4 +69,6 @@ sub get_item_color {
 
 =head1 SEE ALSO
 
+L<ColorTheme::Lens::Brighten>
+
 Other C<ColorTheme::Lens::*> modules.
