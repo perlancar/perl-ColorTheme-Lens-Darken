@@ -24,6 +24,12 @@ our %THEME = (
             default => 50,
         },
     },
+    examples => [
+        {
+            summary => 'Darken a color theme',
+            args => {theme=>'Test::Static'},
+        },
+    ],
 );
 
 sub new {
